@@ -1,6 +1,6 @@
 {
-  "name": "Prometheus Alerts Web Interface",
-  "short_name": "Prometheus Alerts UI",
+  "name": "Next.js Sample Starter",
+  "short_name": "Next.js Sample Starter UI",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
